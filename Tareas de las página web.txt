@@ -1,0 +1,1 @@
+-Lista de publicaciones, donde se muestren las portadas de los libros.

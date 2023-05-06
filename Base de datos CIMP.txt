@@ -1,0 +1,5 @@
+Base de datos de médicamentos
+
+-Se filtra por sesión, fecha, acuerdo de financiación, nombre del medicamento, Código nacional y indicación.
+
+-Nombre de la base: acuerdos CIMP
