@@ -1,11 +1,3 @@
--Cambiar el logo principal de color de las letras
-
--Poner el resto de las publicaciones.
-
--Cambiar la imagen de quienes somos reducir el tamaño
-
--Poner el índice para arríba en logos farmaceuticos.
-
 -Cuando pulsa el + si quiere solicitar un ejemplar "contacte con nosotros en caso de que quiera un ejemplar de está publicación"
 
 

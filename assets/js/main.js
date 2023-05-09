@@ -287,3 +287,10 @@
   });
 
 })()
+function mostrarMensaje(indice) {
+  var mensaje = document.getElementById("mensaje-" + indice);
+  mensaje.style.display = "block";
+  setTimeout(function() {
+    mensaje.style.display = "none";
+  }, 5000); // Oculta el mensaje después de 5 segundos (5000 milisegundos)
+}
